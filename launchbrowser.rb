@@ -1,5 +1,5 @@
 require 'selenium-webdriver'
-
+#sample
 Selenium::WebDriver::Chrome.driver_path= "C:/Seleniumgrid/chromedriver.exe"
 
 caps=Selenium::WebDriver::Remote::Capabilities.chrome(:chrome_options => {detach: true})
