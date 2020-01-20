@@ -28,7 +28,7 @@ sleep(5)
 title=driver.title
 puts "Page tile is "+title
 text1=driver.find_element(:class,'entry-title').text
-puts "The Captured Test is..."+text1
+puts "Captured Test is..."+text1
 
 
 
