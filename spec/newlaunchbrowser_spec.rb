@@ -9,8 +9,7 @@ describe LaunchBrowser do
       lb.setup
         #expect('boats').eq to 'boats'
     end
-
-    it "should navigate to google page" do
+it "should navigate to google page" do
       lb.navigate
     end
 
@@ -20,7 +19,6 @@ describe LaunchBrowser do
     it "should click the required link" do
       lb.clicklink
     end
-
   end
 end
 

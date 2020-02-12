@@ -33,9 +33,7 @@ class LaunchBrowser
     @text1=@driver.find_element(:class,'entry-title').text
     puts "Captured Test is..."+text1
   end
-
 end
-
 
 describe LaunchBrowser do
   context "when testing the LaunchBrowser class" do

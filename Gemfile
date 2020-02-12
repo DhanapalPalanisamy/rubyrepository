@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
-
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem 'selenium-webdriver', "~>2.53"
 gem 'ffi'
@@ -14,5 +13,6 @@ gem 'rspec-rails', ">= 2.0.0.beta"
 gem 'test-unit'
 gem 'aws-sdk'
 gem 'rspec_html_formatter'
-# gem "rails"
 
+
+# gem "rails"

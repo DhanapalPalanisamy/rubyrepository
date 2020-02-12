@@ -2,81 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abc44186-8bbc-40d5-818e-1a62da56e486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.3.1'" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allurereport_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen/allure-results/05781040-1f25-0138-fff1-141877c2c2bf-testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen/allure-results/419301d0-1fd6-0138-fff5-141877c2c2bf-testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen/allure-results/44398420-1fd3-0138-fff4-141877c2c2bf-testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen/allure-results/4b277740-1f47-0138-fff2-141877c2c2bf-testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen/allure-results/b2da62f0-1fdc-0138-fff6-141877c2c2bf-testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gen/allure-results/e4f679b0-1fd2-0138-fff3-141877c2c2bf-testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/launchbrowser_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/tasks/rspec_html.rake.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newlaunchbrowser_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reporting_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/overview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/css/bootstrap-theme-yeti.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/bootstrap-3.2.0-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/jquery-1.11.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_html_reports/resources/jscharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rspec_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/allurereport.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/allurereport_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/launchbrowser.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rspec" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launchbrowser.rb" beforeDir="false" afterPath="$PROJECT_DIR$/launchbrowser.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/newruby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/05781040-1f25-0138-fff1-141877c2c2bf-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/419301d0-1fd6-0138-fff5-141877c2c2bf-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/44398420-1fd3-0138-fff4-141877c2c2bf-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/4b277740-1f47-0138-fff2-141877c2c2bf-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/b2da62f0-1fdc-0138-fff6-141877c2c2bf-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/allure-results/e4f679b0-1fd2-0138-fff3-141877c2c2bf-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/launchbrowser_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/launchbrowser_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rspec_html_reports/launchbrowser.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/launchbrowser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rspec_html_reports/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rspec_html_reports/when-testing-the-launchbrowser-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/when-testing-the-launchbrowser-class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rspec_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/allurereport.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/allurereport_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/launchbrowser.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/LaunchBrowser.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,12 +57,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -128,13 +74,14 @@
     <option name="myCommands">
       <command value="bundle Create gem" />
       <command value="bundle Update" />
-      <command value="bundle Init" />
       <command value="" />
-      <command value="bundle Install" />
       <command value="irb console" />
+      <command value="bundle Install" />
+      <command value="rspec init" />
+      <command value="bundle Init" />
     </option>
   </component>
-  <component name="RunManager" selected="IRB console.IRB console: newruby">
+  <component name="RunManager" selected="RSpec.newlaunchbrowser_spec">
     <configuration name="IRB console: newruby" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
       <module name="newruby" />
       <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -191,7 +138,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="true" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="ruby-2.6.5-p114" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
@@ -260,12 +207,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="IRB console.IRB console: newruby" />
       <item itemvalue="RSpec.newlaunchbrowser_spec" />
       <item itemvalue="RSpec.LaunchBrowser when testing ..." />
       <item itemvalue="Ruby.launchbrowser" />
       <item itemvalue="Ruby.crm" />
       <item itemvalue="Ruby.watirdemo" />
-      <item itemvalue="IRB console.IRB console: newruby" />
     </list>
     <recent_temporary>
       <list>
@@ -319,7 +266,14 @@
       <workItem from="1579607204282" duration="1211000" />
       <workItem from="1579669216601" duration="14670000" />
       <workItem from="1579696662917" duration="267000" />
-      <workItem from="1579697672128" duration="10824000" />
+      <workItem from="1579697672128" duration="14743000" />
+      <workItem from="1580710567476" duration="82000" />
+      <workItem from="1580726886913" duration="3446000" />
+      <workItem from="1580733551616" duration="23529000" />
+      <workItem from="1580894819516" duration="711000" />
+      <workItem from="1581322285574" duration="1226000" />
+      <workItem from="1581426630896" duration="6165000" />
+      <workItem from="1581484837462" duration="3004000" />
     </task>
     <servers />
   </component>
@@ -330,10 +284,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579585973811">
+    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580734708358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579585973811" />
+    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580734708358" />
     <state x="243" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579587930262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -342,22 +296,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579585949006" />
-    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1579761711382">
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom" timestamp="1581482949718">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579761711382" />
-    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1579761711382">
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581482949718" />
+    <state width="1323" height="261" key="GridCell.Tab.0.center" timestamp="1581482949717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579761711382" />
-    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1579761711382">
+    <state width="1323" height="261" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581482949717" />
+    <state width="1323" height="261" key="GridCell.Tab.0.left" timestamp="1581482949716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579761711382" />
-    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1579761711382">
+    <state width="1323" height="261" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581482949716" />
+    <state width="1323" height="261" key="GridCell.Tab.0.right" timestamp="1581482949717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579761711382" />
+    <state width="1323" height="261" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581482949717" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1579606397403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -390,18 +344,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1579761511321">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1581482792005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579761511321" />
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1579669238182">
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581482792005" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1581426771754">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579669238182" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1579761710594">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581426771754" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1581485805346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579761710594" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581485805346" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579760633948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -418,6 +372,6 @@
     <SUITE FILE_PATH="coverage/newruby@crm.rcov" NAME="crm Coverage Results" MODIFIED="1573191708004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@watirdemo.rcov" NAME="watirdemo Coverage Results" MODIFIED="1574333913053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@IRB_console__newruby.rcov" NAME="IRB console: newruby Coverage Results" MODIFIED="1579761711219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
-    <SUITE FILE_PATH="coverage/newruby@newlaunchbrowser_spec.rcov" NAME="newlaunchbrowser_spec Coverage Results" MODIFIED="1579761537446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@newlaunchbrowser_spec.rcov" NAME="newlaunchbrowser_spec Coverage Results" MODIFIED="1581481295917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="newruby" />
   </component>
 </project>
