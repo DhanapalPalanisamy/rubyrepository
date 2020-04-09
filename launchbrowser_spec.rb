@@ -1,5 +1,5 @@
 require 'selenium-webdriver'
-$driver=driver;
+driver=driver;
 class LaunchBrowser
   @@caps;
   def setup

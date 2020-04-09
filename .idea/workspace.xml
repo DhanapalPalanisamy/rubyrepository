@@ -2,27 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abc44186-8bbc-40d5-818e-1a62da56e486" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/aws-v3.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/htmldiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ldiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/nokogiri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/rackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/rougify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/thor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/uuid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.rspec" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/05781040-1f25-0138-fff1-141877c2c2bf-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/419301d0-1fd6-0138-fff5-141877c2c2bf-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/44398420-1fd3-0138-fff4-141877c2c2bf-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/4b277740-1f47-0138-fff2-141877c2c2bf-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/b2da62f0-1fdc-0138-fff6-141877c2c2bf-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen/allure-results/e4f679b0-1fd2-0138-fff3-141877c2c2bf-testsuite.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/launchbrowser_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/launchbrowser_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/newruby.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rspec_html_reports/launchbrowser.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/launchbrowser.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rspec_html_reports/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/overview.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rspec_html_reports/when-testing-the-launchbrowser-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/when-testing-the-launchbrowser-class.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rspec_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/allurereport.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/allurereport_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/launchbrowser.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/LaunchBrowser.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/LaunchBrowser.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/LaunchBrowser.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +60,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RspecwithRuby" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -73,12 +76,12 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="bundle Create gem" />
-      <command value="bundle Update" />
       <command value="" />
       <command value="irb console" />
-      <command value="bundle Install" />
       <command value="rspec init" />
       <command value="bundle Init" />
+      <command value="bundle Update" />
+      <command value="bundle Install" />
     </option>
   </component>
   <component name="RunManager" selected="RSpec.newlaunchbrowser_spec">
@@ -95,6 +98,37 @@
       <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_PLUGINS_DIR$/ruby/rb/testing/runner/irb.rb" />
       <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
       <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchBrowser when testing ... (1)" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+      <module name="newruby" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="LaunchBrowser when testing the LaunchBrowser class should search with given keyword" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,6 +152,37 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="LaunchBrowser when testing the LaunchBrowser class" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaunchBrowser" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+      <module name="newruby" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="LaunchBrowser" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -158,38 +223,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="crm" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="newruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/crm.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="launchbrowser" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="newruby" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="true" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="ruby-2.4.9-p362" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/launchbrowser.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="watirdemo" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="newruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -210,17 +243,17 @@
       <item itemvalue="IRB console.IRB console: newruby" />
       <item itemvalue="RSpec.newlaunchbrowser_spec" />
       <item itemvalue="RSpec.LaunchBrowser when testing ..." />
-      <item itemvalue="Ruby.launchbrowser" />
-      <item itemvalue="Ruby.crm" />
+      <item itemvalue="RSpec.LaunchBrowser" />
+      <item itemvalue="RSpec.LaunchBrowser when testing ... (1)" />
       <item itemvalue="Ruby.watirdemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="RSpec.LaunchBrowser when testing ... (1)" />
+        <item itemvalue="RSpec.LaunchBrowser" />
         <item itemvalue="IRB console.IRB console: newruby" />
         <item itemvalue="RSpec.LaunchBrowser when testing ..." />
         <item itemvalue="Ruby.watirdemo" />
-        <item itemvalue="Ruby.launchbrowser" />
-        <item itemvalue="Ruby.crm" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +306,23 @@
       <workItem from="1580894819516" duration="711000" />
       <workItem from="1581322285574" duration="1226000" />
       <workItem from="1581426630896" duration="6165000" />
-      <workItem from="1581484837462" duration="3004000" />
+      <workItem from="1581484837462" duration="4222000" />
+      <workItem from="1581650885879" duration="2509000" />
+      <workItem from="1581918254870" duration="678000" />
+      <workItem from="1582033069352" duration="992000" />
+      <workItem from="1582095450083" duration="1174000" />
+      <workItem from="1582181084338" duration="14693000" />
+      <workItem from="1582381785572" duration="1695000" />
+      <workItem from="1582658386619" duration="3596000" />
+      <workItem from="1582810305913" duration="287000" />
+      <workItem from="1582815237260" duration="3912000" />
+      <workItem from="1583227803332" duration="3976000" />
+      <workItem from="1583248843722" duration="9128000" />
+      <workItem from="1583742129254" duration="560000" />
+      <workItem from="1583764008298" duration="845000" />
+      <workItem from="1585548148690" duration="7446000" />
+      <workItem from="1585569824291" duration="8329000" />
+      <workItem from="1586337161632" duration="3450000" />
     </task>
     <servers />
   </component>
@@ -284,78 +333,82 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580734708358">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1585557337122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580734708358" />
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585557337122" />
+    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585577921754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="180" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585577921754" />
     <state x="243" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579587930262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="243" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579587930262" />
-    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1579585949006">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1585578472164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579585949006" />
-    <state width="1323" height="261" key="GridCell.Tab.0.bottom" timestamp="1581482949718">
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585578472164" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585558648744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581482949718" />
-    <state width="1323" height="261" key="GridCell.Tab.0.center" timestamp="1581482949717">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585558648744" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585558648744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="261" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581482949717" />
-    <state width="1323" height="261" key="GridCell.Tab.0.left" timestamp="1581482949716">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585558648744" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585558648743">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="261" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581482949716" />
-    <state width="1323" height="261" key="GridCell.Tab.0.right" timestamp="1581482949717">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585558648743" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585558648744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="261" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581482949717" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1579606397403">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585558648744" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585558241640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1579606397403">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585558241640" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1585558241640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1579606397402">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585558241640" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1585558241640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579606397402" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1579606397403">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585558241640" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1585558241640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1579606397403">
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585558241640" />
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom" timestamp="1585558241641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1579606397403">
+    <state width="1323" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585558241641" />
+    <state width="1323" height="223" key="GridCell.Tab.2.center" timestamp="1585558241641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1579606397403">
+    <state width="1323" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1585558241641" />
+    <state width="1323" height="223" key="GridCell.Tab.2.left" timestamp="1585558241641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1579606397403">
+    <state width="1323" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1585558241641" />
+    <state width="1323" height="223" key="GridCell.Tab.2.right" timestamp="1585558241641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1579606397403" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1581482792005">
+    <state width="1323" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1585558241641" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1585577750127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581482792005" />
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1581426771754">
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585577750127" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1585574890210">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581426771754" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1581485805346">
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585574890210" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1585558526745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581485805346" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585558526745" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579760633948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -364,14 +417,16 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/newruby@waitr.rcov" NAME="waitr Coverage Results" MODIFIED="1573123599218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@watir.rcov" NAME="watir Coverage Results" MODIFIED="1573129688250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
-    <SUITE FILE_PATH="coverage/newruby@launchbrowser.rcov" NAME="launchbrowser Coverage Results" MODIFIED="1574329344855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
-    <SUITE FILE_PATH="coverage/newruby@LaunchBrowser_when_testing____.rcov" NAME="LaunchBrowser when testing ... Coverage Results" MODIFIED="1579588583197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
-    <SUITE FILE_PATH="coverage/newruby@sampleruby.rcov" NAME="sampleruby Coverage Results" MODIFIED="1573117710240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@helloworld_rspec.rcov" NAME="newlaunchbrowser_spec Coverage Results" MODIFIED="1579602753456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="newruby" />
-    <SUITE FILE_PATH="coverage/newruby@launch.rcov" NAME="launch Coverage Results" MODIFIED="1572932010855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@crm.rcov" NAME="crm Coverage Results" MODIFIED="1573191708004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@watirdemo.rcov" NAME="watirdemo Coverage Results" MODIFIED="1574333913053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
     <SUITE FILE_PATH="coverage/newruby@IRB_console__newruby.rcov" NAME="IRB console: newruby Coverage Results" MODIFIED="1579761711219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
-    <SUITE FILE_PATH="coverage/newruby@newlaunchbrowser_spec.rcov" NAME="newlaunchbrowser_spec Coverage Results" MODIFIED="1581481295917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@LaunchBrowser.rcov" NAME="LaunchBrowser Coverage Results" MODIFIED="1585549292146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@newlaunchbrowser_spec.rcov" NAME="newlaunchbrowser_spec Coverage Results" MODIFIED="1585558648690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@LaunchBrowser_when_testing______1_.rcov" NAME="LaunchBrowser when testing ... (1) Coverage Results" MODIFIED="1585558283414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@launchbrowser.rcov" NAME="launchbrowser Coverage Results" MODIFIED="1574329344855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@LaunchBrowser_when_testing____.rcov" NAME="LaunchBrowser when testing ... Coverage Results" MODIFIED="1579588583197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@sampleruby.rcov" NAME="sampleruby Coverage Results" MODIFIED="1573117710240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
+    <SUITE FILE_PATH="coverage/newruby@launch.rcov" NAME="launch Coverage Results" MODIFIED="1572932010855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="newruby" />
   </component>
 </project>

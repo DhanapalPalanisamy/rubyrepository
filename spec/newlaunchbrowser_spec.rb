@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'selenium-webdriver'
 require 'spec_helper'
 require 'LaunchBrowser'
@@ -7,15 +8,17 @@ describe LaunchBrowser do
   context "when testing the LaunchBrowser class" do
     it "should launch the chrome browser" do
       lb.setup
+
         #expect('boats').eq to 'boats'
     end
-it "should navigate to google page" do
+    it "should navigate to google page" do
       lb.navigate
     end
 
     it "should search with given keyword" do
       lb.search_keyword
     end
+
     it "should click the required link" do
       lb.clicklink
     end
@@ -44,8 +47,6 @@ end
 #puts "Page tile is "+title
 #text1=driver.find_element(:class,'entry-title').text
 #puts "Captured Test is..."+text1
-
-
 
 
 

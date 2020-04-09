@@ -1,15 +1,17 @@
-#require 'aws-sdk'
-#require 'allure-ruby-adaptor-api'
-#require 'test-unit'
-
+#!/usr/bin/env ruby
+require 'aws-sdk'
+require 'allure-ruby-adaptor-api'
+require 'test-unit'
 #class LaunchBrowser < Test::Unit::TestCase
+
 class LaunchBrowser
-   attr_accessor :driver,:element, :element1, :text1,:title, :el
+  attr_accessor :driver,:element, :element1, :text1,:title, :el
   def setup
     Selenium::WebDriver::Chrome.driver_path= "C:/Seleniumgrid/chromedriver.exe"
     caps=Selenium::WebDriver::Remote::Capabilities.chrome(:chrome_options => {detach: true})
     sleep(2)
     @@driver=Selenium::WebDriver.for :chrome, desired_capabilities: caps
+    sleep(3)
   end
 
   def navigate
